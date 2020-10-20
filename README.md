@@ -15,6 +15,8 @@ Discount Mart is basically a Supermarket and here I have created a Dashboard whe
 
 You can also look for the Dashboard here [Discount Mart](https://public.tableau.com/profile/raghvendra.murnal#!/vizhome/DiscountMartSalesAnalytics_16031104306140/Dashboard1)
 
+![name-of-you-image](https://your-copied-image-address)
+
 ## 2. TESLA Stocks
 
 Tesla is an American electric vehicle and clean energy company. Here I have created dashboard to see trends of the stock price for the last 3 months, I have also created this in such a way so that the charts will be updated daily. With daily closing figures and volume of stock traded.
@@ -22,3 +24,6 @@ Tesla is an American electric vehicle and clean energy company. Here I have crea
 I have created our own dataset with the help of Google Sheets and connected it with Tableau and created a Dashboard.
 
 You can also look for the Dashboard here [Tesla Stock Prics](https://public.tableau.com/profile/raghvendra.murnal#!/vizhome/TESLAStockPriceDashboard/Dashboard1)
+
+![name-of-you-image](https://your-copied-image-address)
+
