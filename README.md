@@ -25,5 +25,5 @@ I have created our own dataset with the help of Google Sheets and connected it w
 
 You can also look for the Dashboard here [Tesla Stock Prics](https://public.tableau.com/profile/raghvendra.murnal#!/vizhome/TESLAStockPriceDashboard/Dashboard1)
 
-![name-of-you-image](https://your-copied-image-address)
+![Tesla stock price tableau dashboard](https://github.com/raghvendra03/Tableau-Data-Visulization/blob/main/images/Tesla%20stock%20price%20tableau%20dashboard.PNG)
 
