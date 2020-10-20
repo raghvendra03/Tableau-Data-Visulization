@@ -15,7 +15,7 @@ Discount Mart is basically a Supermarket and here I have created a Dashboard whe
 
 You can also look for the Dashboard here [Discount Mart](https://public.tableau.com/profile/raghvendra.murnal#!/vizhome/DiscountMartSalesAnalytics_16031104306140/Dashboard1)
 
-![name-of-you-image](https://your-copied-image-address)
+![Discount mart tableau dashboard](https://github.com/raghvendra03/Tableau-Data-Visulization/blob/main/images/Discount%20mart%20tableau%20dashboard.PNG)
 
 ## 2. TESLA Stocks
 
