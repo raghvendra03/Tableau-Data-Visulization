@@ -10,7 +10,7 @@ You can checkout my Tableau Profile from this Link - [Raghvendra Murnal](https:/
 
 ## 1. Discount Mart
 
-Discount Mart is basically a Supermarket and here I have created a Dashboard where we can track the company performance in terms od Sales, Profit and Quantity sold. I have also created Charts to know how well the categories are performing as well as the County/Regions.
+Discount Mart is basically a Supermarket and here I have created a Dashboard where we can track the company performance in terms of Sales, Profit and Quantity sold. I have also created Charts to know how well the categories are performing as well as the County/Regions.
 
 You can also look for the Dashboard here [Discount Mart](https://public.tableau.com/profile/raghvendra.murnal#!/vizhome/DiscountMartSalesAnalytics_16031104306140/Dashboard1)
 
